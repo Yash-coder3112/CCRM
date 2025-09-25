@@ -19,13 +19,13 @@ This project demonstrates **core Java SE, OOP, advanced features, exceptions, de
 **I have also uploaded a single runnable main.java file**  
 **How to Run (other than single runnable main.java file)**
 In mac:
-1. Open your zsh terminal
+1. Open your terminal
 2. command: cd
-3. then drag and drop your file so that the file path is automatically inserted
+3. cd path/to/project
 4. command: javac -d out $(find src -name "*.java")
 5. command to check if it is compiled: ls out
 6. it will show edu
-7. command: java -up out edu.ccrm.cli.CampusApp
+7. command:java -up out edu.ccrm.cli.CampusApp
 
 
 **Evolution of Java**
